@@ -1,3 +1,6 @@
 [submodule "guardians_front"]
 	path = guardians_front
 	url = https://github.com/TheNaFeR02/guardians_front.git
+[submodule "guardians_API"]
+	path = guardians_API
+	url = https://github.com/TheNaFeR02/guardians_API.git
